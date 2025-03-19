@@ -1,0 +1,23 @@
+{
+    "name": "motorbit-leds",
+    "version": "0.0.0",
+    "description": "pxt-motorbit with built-in leds functionality",
+    "dependencies": {
+        "core": "*",
+	"motorbit": "github:nevergone/pxt-motorbit"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "GPL"
+}
