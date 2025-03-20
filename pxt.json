@@ -4,7 +4,8 @@
   "description": "pxt-motorbit with built-in leds functionality",
   "dependencies": {
     "core": "*",
-    "motorbit": "github:nevergone/pxt-motorbit"
+    "motorbit": "github:nevergone/pxt-motorbit",
+    "Sensorbit": "github:nevergone/pxt-sensorbit"
   },
   "files": [
     "README.md",
