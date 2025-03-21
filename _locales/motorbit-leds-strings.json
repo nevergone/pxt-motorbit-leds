@@ -1,0 +1,18 @@
+{
+  "motorbit_leds.Offset.FOUR|block": "four",
+  "motorbit_leds.Offset.ONE|block": "one",
+  "motorbit_leds.Offset.THREE|block": "three",
+  "motorbit_leds.Offset.TWO|block": "two",
+  "motorbit_leds.Setting_the_on_board_lights|block": "Setting the on-board lights %offset|%rgb",
+  "motorbit_leds.Ultrasonic_reading_distance|block": "On-board Ultrasonic reading distance",
+  "motorbit_leds.close_all_the_on_board_lights|block": "close all the on-board lights",
+  "motorbit_leds.close_the_on_board_lights|block": "close the on-board lights %offset",
+  "motorbit_leds.getColorEffect|block": "effect %coloreffect",
+  "motorbit_leds.getColor|block": "color %color",
+  "motorbit_leds.getOffset|block": "led %offset",
+  "motorbit_leds.getRgbUltrasonics|block": "part %rgbultrasonics",
+  "motorbit_leds.motorbit_rus04|block": "On-board Ultrasonic %index show %rgb %effect",
+  "{id:category}Motorbit_leds": "Motorbit_leds",
+  "{id:group}RGB": "RGB",
+  "{id:group}RUS-04": "RUS-04"
+}
