@@ -1,25 +1,23 @@
 {
-  "name": "motorbit-leds",
-  "version": "0.0.0",
-  "description": "pxt-motorbit with built-in leds functionality",
-  "dependencies": {
-    "core": "*",
-    "motorbit": "github:nevergone/pxt-motorbit",
-    "Sensorbit": "github:nevergone/pxt-sensorbit"
-  },
-  "files": [
-    "README.md",
-    "main.blocks",
-    "main.ts",
-    "motorbit-leds.ts"
-  ],
-  "testFiles": [
-    "test.ts"
-  ],
-  "public": true,
-  "supportedTargets": [
-    "microbit"
-  ],
-  "preferredEditor": "blocksprj",
-  "license": "GPL"
+    "name": "motorbit-leds",
+    "description": "motorbit leds",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+	"motorbit": "github:nevergone/pxt-motorbit",
+	"sensors": "github:nevergone/pxt-sensorbit"
+    },
+    "files": [
+        "README.md",
+        "motorbit-leds.ts"
+    ],
+    "testFiles": [
+        "main.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }

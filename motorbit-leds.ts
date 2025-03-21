@@ -1,3 +1,14 @@
+enum Offset {
+    //% block=one
+    ONE = 0,
+    //% block=two
+    TWO = 1,
+    //% block=three
+    THREE = 2,
+    //% block=four
+    FOUR = 3
+}
+
 namespace motorbit_leds {
 
     //% blockId="motorbit_rus04" block="On-board Ultrasonic part %index show color %rgb effect %effect"
